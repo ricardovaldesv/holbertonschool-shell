@@ -1,4 +1,2 @@
 #!/bin/bash
-$ ./0-current_working_directory
-/root/holbertonschool-shell/basics
-$
+pwd
