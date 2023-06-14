@@ -54,6 +54,8 @@ include capital letters as well
 
 20-hiago: script that removes all letters c and C from input.
 
+21-reverse: script that reverse its input.
+
 
 
 
