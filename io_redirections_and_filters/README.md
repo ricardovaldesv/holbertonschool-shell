@@ -46,6 +46,10 @@ Words should be sorted
 
 17-hidethisword : Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+18-letteronly : Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+include capital letters as well
+
 
 
 
