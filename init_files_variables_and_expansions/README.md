@@ -4,5 +4,6 @@
 3-paths : script that counts the number of directories in the PATH.
 4-global_variables : script that lists environment variables.
 5-local_variables : script that lists all local variables and environment variables, and functions.
+6-create_local_variable: script that creates a new local variable.
 
 
